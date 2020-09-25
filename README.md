@@ -10,6 +10,7 @@ Kali ini saya menunjukkan RecyclerView dalam bentuk List dan Grid.
 ![Alt Text](https://github.com/lethanaxeger/MyRecycler_View/blob/master/Screenshots/grid%20view.jpg)
 
 ***View Recyclerview Card***
+
 Efek onClick pada Image Hero
 ![Alt Text](https://github.com/lethanaxeger/MyRecycler_View/blob/master/Screenshots/Card%20.jpg)
 
